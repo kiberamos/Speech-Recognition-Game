@@ -324,6 +324,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Standard Assets\2D\Prefabs\SpeechRecognitionEngine.cs" />
     <Compile Include="Assets\Standard Assets\2D\Scripts\Camera2DFollow.cs" />
     <Compile Include="Assets\Standard Assets\2D\Scripts\CameraFollow.cs" />
     <Compile Include="Assets\Standard Assets\2D\Scripts\Platformer2DUserControl.cs" />
